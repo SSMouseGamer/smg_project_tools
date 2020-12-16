@@ -1,0 +1,15 @@
+[
+    {   "name"     :"正式环境", 
+        "domains"  :{
+            "0":"https://mobileapi.qinlinkeji.com/api/", 
+            "1":"https://qapp.qinlinkeji.com/app/api/"
+        }
+    },
+
+    {   "name"     :"测试环境",
+        "domains"  :{
+            "0":"https://uat-mobileapi.qinlinkeji.com/api/", 
+            "1":"https://uat-qapp.qinlinkeji.com/app/api/"
+        }
+    }
+]
